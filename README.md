@@ -60,3 +60,5 @@ Hidden Markov Model/
 | gyro_mean | Time | Mean gyroscope magnitude |
 | dominant_freq | Frequency | Dominant frequency from FFT |
 | spectral_energy | Frequency | Total spectral energy from FFT |
+
+Author: David Birenzi
